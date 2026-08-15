@@ -60,7 +60,6 @@ foreach ($schools as $school) {
                     </div>
                 </div>
             </div>
-            
             <nav class="sidebar-nav">
                 <ul>
                     <li class="nav-item active">
@@ -107,7 +106,7 @@ foreach ($schools as $school) {
                     <li class="nav-item">
                         <a href="modules/transactions/expense.php">
                             <i class="fas fa-arrow-down text-danger"></i>
-                            <span>المصروفات</span>
+                            <span>المصروفاالمروفاااتت</span>
                         </a>
                     </li>
                     
