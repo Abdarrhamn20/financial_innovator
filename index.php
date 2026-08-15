@@ -106,7 +106,9 @@ foreach ($schools as $school) {
                     <li class="nav-item">
                         <a href="modules/transactions/expense.php">
                             <i class="fas fa-arrow-down text-danger"></i>
-                            <span>المصروفات</span>
+                            <span>تتت
+                                
+                            </span>
                         </a>
                     </li>
                     
